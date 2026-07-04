@@ -1,16 +1,15 @@
 # Documents Module
 
 ## Purpose
-Store, organize and retrieve documents from multiple providers in a unified workspace.
+Provide a unified workspace for documents from local storage and connected cloud providers.
 
 ## Features
-- Multi-provider storage
-- Document preview
-- Full-text indexing
-- Version history
+- Unified document library
+- Version awareness
+- Full-text search
 - AI summaries
-- Tagging and categorization
-- Project linking
+- Document linking to tasks and projects
+- Recent activity
 
 ## Success Criteria
-Users can find and work with any document from a single interface regardless of its source.
+Users can locate, understand and organize documents from one interface.
